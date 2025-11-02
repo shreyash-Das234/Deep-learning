@@ -41,8 +41,8 @@ https://drive.google.com/open?id=13IRQdgwTu9wIU_W3DWneWpLCKrGRTP7Z&usp=drive_cop
 https://drive.google.com/open?id=1fOlRmYb4XuJzP1C1VkApMujxMt3lpUqq&usp=drive_copy
 
 # Design and implement LSTM for Text Prediction.
+https://drive.google.com/open?id=1vqa1F8DSGSlwt-kwDgCqoSCU2MaI0mRZ&usp=drive_copy
+
 #	Design and implement RNN for sentiment analysis where entire sequence is mapped to single output.
 https://drive.google.com/open?id=1vqa1F8DSGSlwt-kwDgCqoSCU2MaI0mRZ&usp=drive_copy
-# Design and implement a CNN model for image classification.
-# Design and implement LSTM for Text Prediction.
-# Design and implement RNN for sentiment analysis where entire sequence is mapped to single output.
+
